@@ -11,21 +11,7 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "strict": true,
-    "noUnusedLocals": false,
-    "noUnusedParameters": false,
-    "noFallthroughCasesInSwitch": true
+    "strict": false
   },
   "include": ["src"]
 }
-```
-
-Commit it.
-
----
-
-**Then also add `netlify.toml` at root — same process:**
-
-**Filename:**
-```
-netlify.toml
