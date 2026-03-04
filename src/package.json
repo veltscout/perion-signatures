@@ -1,0 +1,18 @@
+{
+  "name": "perion-signatures",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
+```
+4. Commit changes
+
+---
+
+**Step 5 — Open in StackBlitz**
+
+Go to your browser and type:
+```
+stackblitz.com/github/veltscout/perion-signatures
