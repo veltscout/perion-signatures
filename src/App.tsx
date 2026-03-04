@@ -1,7 +1,7 @@
 import { useState, useCallback } from "react";
 
 // ── CONSTANTS ──────────────────────────────────────────────────────────────
-const LOGO_URL = "https://raw.githubusercontent.com/veltscout/perion-signatures/main/PERION-Primary-Logo-Transparent.png";
+const LOGO_URL = "/PERION-Primary-Logo-Transparent.png";
 const WEBSITE   = "https://www.perionlighting.com";
 const WEBSITE_D = "www.perionlighting.com";
 const DOMAIN    = "@perionlighting.com";
